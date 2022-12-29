@@ -1,0 +1,13 @@
+table,td,thead{
+    /* border-collapse: collapse; */
+    border: 1px;
+    border-style: solid;
+    /* padding: 20px 10px; */
+}
+thead{
+    font-weight: bolder;
+}
+table{
+    width: 30%;
+    text-align: center;
+}
